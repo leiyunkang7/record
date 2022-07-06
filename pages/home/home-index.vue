@@ -4,8 +4,5 @@
 </script>
 
 <template>
-  <div>
-    <!-- Markup shared across all pages, ex: NavBar -->
-    <NuxtPage />
-  </div>
+  <div>首页</div>
 </template>
